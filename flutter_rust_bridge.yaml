@@ -1,0 +1,4 @@
+bridges:
+  - rust:
+      input: "native/src/api.rs"
+      output: "lib/bridge_generated.dart"
