@@ -1,4 +1,4 @@
-# datum_flutter_rust
+# flutter_rust
 
 A new Flutter project.
 

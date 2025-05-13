@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="datum_flutter_rust"
+        android:label="flutter_rust"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

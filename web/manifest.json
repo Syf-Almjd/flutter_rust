@@ -1,6 +1,6 @@
 {
-    "name": "datum_flutter_rust",
-    "short_name": "datum_flutter_rust",
+    "name": "flutter_rust",
+    "short_name": "flutter_rust",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
